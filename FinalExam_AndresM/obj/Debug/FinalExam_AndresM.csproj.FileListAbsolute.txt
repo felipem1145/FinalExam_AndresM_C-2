@@ -1,0 +1,10 @@
+C:\Andres\FinalExam_AndresM\bin\Debug\FinalExam_AndresM.exe.config
+C:\Andres\FinalExam_AndresM\bin\Debug\FinalExam_AndresM.exe
+C:\Andres\FinalExam_AndresM\bin\Debug\FinalExam_AndresM.pdb
+C:\Andres\FinalExam_AndresM\obj\Debug\FinalExam_AndresM.csprojAssemblyReference.cache
+C:\Andres\FinalExam_AndresM\obj\Debug\FinalExam_AndresM.Form1.resources
+C:\Andres\FinalExam_AndresM\obj\Debug\FinalExam_AndresM.Properties.Resources.resources
+C:\Andres\FinalExam_AndresM\obj\Debug\FinalExam_AndresM.csproj.GenerateResource.cache
+C:\Andres\FinalExam_AndresM\obj\Debug\FinalExam_AndresM.csproj.CoreCompileInputs.cache
+C:\Andres\FinalExam_AndresM\obj\Debug\FinalExam_AndresM.exe
+C:\Andres\FinalExam_AndresM\obj\Debug\FinalExam_AndresM.pdb
